@@ -33,7 +33,7 @@ const freelances = [
 		id: '16',
 		name: 'Doudou Fall',
 		job: 'Développeur fullstack',
-		picture: 'http://localhost:8000/images/16.png',
+		picture: 'https://shiny-backend-9dgm.onrender.com/images/16.png',
 		skills: ['Node JS', 'Express', 'React', 'PHP', 'SQL','HTML/CSS'],
 		location: 'Dakar',
 		available: false,
@@ -162,4 +162,5 @@ const freelances = [
 ]
 
 module.exports = freelances
+
 
